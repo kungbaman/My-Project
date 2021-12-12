@@ -18,7 +18,7 @@ body{
     background-color: gold;
     /* background: url('http://soccersuck.com/img/web/ss_bg01.jpg'); */
     position: relative;
-    left: -10px;
+    /* left: -10px; */
     margin: 0 auto;
     border-bottom: 6px solid black;
 }
@@ -51,12 +51,13 @@ body{
     margin: 0 auto;
 }
 .container_left{
-    width: 200px;
+    width: 190px;
     height: 2800px;
     /* border: 1px solid black; */
     /* margin-top: 10px; */
-    position: relative;
-    left: -10px;
+    /* position: relative;
+    left: -10px; */
+    margin-right: 10px;
     float: left;
     background: url('http://soccersuck.com/img/web/ss_bg01.jpg');
 }
@@ -165,11 +166,11 @@ hr{
 }*/
 
 .container_right {
-    width: 180px;
+    width: 190px;
     height: 2800px;
     /* border: 2px solid black; */
     /* margin-top: 10px; */
-    margin-right: 10px;
+    /* margin-left: 10px; */
     float: right;
     background: url('http://soccersuck.com/img/web/ss_bg01.jpg');
 }
@@ -184,8 +185,8 @@ hr{
     color: #fff;
     font-size: 13px;
     font-weight: bold;
-    position: relative;
-    left: -10px;
+    /* position: relative;
+    left: -10px; */
 }
 .footer_content a{
     color: #fff;
