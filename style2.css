@@ -191,6 +191,7 @@ hr{
     color: #fff;
     text-decoration: none;
     font-weight: normal;
+    padding: 2px;
     
 }
 .footer_content2{
@@ -204,4 +205,5 @@ hr{
 .footer_content a:hover{
     background-color: yellowgreen;
     font-size: 17px;
+    padding: 5px;
 }
