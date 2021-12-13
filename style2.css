@@ -49,6 +49,7 @@ body{
     width: 1120px;
     height: 100%;
     margin: 0 auto;
+    background-color: #fff;
 }
 .container_left{
     width: 190px;
