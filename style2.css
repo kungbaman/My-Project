@@ -19,21 +19,26 @@ body{
     /* background: url('http://soccersuck.com/img/web/ss_bg01.jpg'); */
     position: relative;
     /* left: -10px; */
+    padding: 1rem;
     margin: 0 auto;
     border-bottom: 6px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
 }
 .box_tophd{
     padding: 15px;
     /* border: 1px solid black; */
     width: 130px;
-    margin-top: 20px;
+    /* margin-top: 20px; */
     margin-left: 20px;
-    display: inline-block;
+    /* display: inline-block; */
     background-color: green;
 }
-#top_header1{
+/* #top_header1{
     margin-left: 120px;
-}
+} */
 .box_tophd h2{
     text-align: center;
     color: greenyellow;
