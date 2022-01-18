@@ -4,6 +4,7 @@
     box-sizing: border-box;
     margin: 0;
     font-family: 'Kanit', sans-serif;
+    scroll-behavior: smooth;
 }
 body{
     background-color: green;
